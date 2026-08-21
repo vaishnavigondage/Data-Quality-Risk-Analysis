@@ -1,8 +1,12 @@
 📁 Data Quality & Risk Analysis
+Also referred to as: Banking Risk & Reporting Dashboard — a SQL/Power BI project analyzing financial transaction data for anomaly detection and KPI reporting.
+
+
 
 📌 Overview
 
 This project emphasizes assessing data quality and performing structured analysis where accuracy, completeness, and consistency are critical. The goal is to identify inconsistencies, apply validation checks, and prepare reliable datasets for analytical and reporting purposes.
+Banking Risk & Reporting Dashboard — SQL/Power BI project analyzing financial transaction data for anomaly detection and KPI reporting.
 
 The project reflects common data quality and risk-focused analytical workflows.
 
