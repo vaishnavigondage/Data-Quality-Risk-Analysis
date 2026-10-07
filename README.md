@@ -60,7 +60,7 @@ Here are some snapshots from the Power BI dashboard and Looker Studio:
 powerbi/BankingAnalysisReport.pbix
 
 
-### Looker Studio (BigQuery)
+### Looker Studio (BigQuery) link : https://datastudio.google.com/reporting/7ea60aab-724d-4a30-a695-8cb74fbe2819
 <img width="1125" height="682" alt="Screenshot 2026-10-07 205928" src="https://github.com/user-attachments/assets/d2b7e4d5-5b0d-4ecf-bf5e-5c65827e5003" />
 Loan 
 <img width="1422" height="1062" alt="Screenshot 2026-10-07 205018" src="https://github.com/user-attachments/assets/dfe20a4e-f036-4c53-af1d-fb6bac72c4bc" />
